@@ -43,8 +43,8 @@
 <a href="https://www.linkedin.com/in/harshit-singh-lko/"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/masky814/"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/10472273/harshit-singh"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/stackoverflow.png"></a>&nbsp;&nbsp;
-<a href="https://sourcerer.io/harshit564"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/sourcerer.png"></a>&nbsp;&nbsp;
-<a href="mailto:harshitsingh15967@gmail.com?subject=Feedaback%20Support"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/gmail.png"></a>
+<a href="https://sourcerer.io/harshit564"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/sourcerer.png"></a>&nbsp;&nbsp;
+<a href="mailto:harshitsingh15967@gmail.com?subject=Feedaback%20Support"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/gmail.png"></a>
 
 <p align="center">
 Made with 💖 and ☕ from Harshit Singh</p>
