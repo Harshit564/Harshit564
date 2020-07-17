@@ -1,5 +1,5 @@
 <p align='center'>
-  <img  src="https://github.com/Harshit564/Harshit564/tree/master/images/dev.gif" alt="Developer gif">
+  <img  src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" alt="Developer gif">
 </p>
 <h2 align="center">Hello Everyone, I'm <a href="https://harshit564.github.io/My-Portfolio">Harshit Singh</a></h2>
 <p align="center">
@@ -38,11 +38,11 @@
 <h1 align="center">Follow me </h1>
 <p align="center">
 <br>
-<a href="https://www.facebook.com/HarshitSingh.pec"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/facebook1.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/harshit_singh58"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/harshit-singh-lko/"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/masky814/"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/10472273/harshit-singh"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/stackoverflow.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/HarshitSingh.pec"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/facebook1.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/harshit_singh58"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/harshit-singh-lko/"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/masky814/"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/10472273/harshit-singh"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/stackoverflow.png"></a>&nbsp;&nbsp;
 <a href="https://sourcerer.io/harshit564"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/sourcerer.png"></a>&nbsp;&nbsp;
 <a href="mailto:harshitsingh15967@gmail.com?subject=Feedaback%20Support"><img height="30" src="https://github.com/Harshit564/Harshit564/tree/master/images/gmail.png"></a>
 
