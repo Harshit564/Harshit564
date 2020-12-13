@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 
-<img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" />
+<img align="center" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" />
 
 **About me:**
 
@@ -58,3 +58,5 @@
 
 <p align="center">
 Made with 💖 and ☕ from Harshit Singh</p>
+
+<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
