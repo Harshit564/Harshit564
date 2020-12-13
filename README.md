@@ -1,16 +1,26 @@
-<p align='center'>
-  <img  src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" alt="Developer gif" width="500" height="500">
-</p>
-<h2 align="center">Hello Everyone, I'm <a href="https://harshit564.github.io/My-Portfolio">Harshit Singh</a></h2>
+<h1 align="center">Hi 👋, I'm Harshit</h1>
+
+<img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" />
+
+**About me:**
+
 <p align="center">
   <samp>
   I'm a Native and Cross-Platform Android Developer and Full Stack Web Developer and a Open Source Enthusiast who loves everything which involves code💻 and open-source community. Currently I am pursuing B.Tech in Electrical Engineering at Punjab Engineering College,Chandigarh. I love to explore all fields related to programming especially which involves Java, Python, Dart and JavaScript. Apart from being a Tech Geek,I am an avid Video game 🎮 lover and loves to make various genre games using Unity with C# and C++.
   </samp>
 </p>
+
+<b>You can site my portfolio:<b> https://harshit564.github.io/My-Portfolio/
+  
+**Stats :**  (https://gitstats.me/Harshit564)
+<br>
+
+<i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harshit564&show_icons=true&border=true&title_color=79ff97&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Harshit's Github stats">
 </p><br>
-<h1 align="center">My Skills</h1>
+<h1 align="center">Languages and Tools</h1>
 <p align="center">
 <br>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
