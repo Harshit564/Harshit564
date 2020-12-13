@@ -4,15 +4,19 @@
 
 **About me:**
 
-<p align="center">
-  <samp>
-  I'm a Native and Cross-Platform Android Developer and Full Stack Web Developer and a Open Source Enthusiast who loves everything which involves code💻 and open-source community. Currently I am pursuing B.Tech in Electrical Engineering at Punjab Engineering College,Chandigarh. I love to explore all fields related to programming especially which involves Java, Python, Dart and JavaScript. Apart from being a Tech Geek,I am an avid Video game 🎮 lover and loves to make various genre games using Unity with C# and C++.
-  </samp>
-</p>
+- 🌱 I’m active in [Competitive Coding!](https://www.codechef.com/users/harshit_pec)
+- 💻 Native and Hybrid App Developer and a full stack web developer.
+- 🎓 Currently I am pursuing B.Tech in Electrical Engineering at Punjab Engineering College,Chandigarh.
+- 👯 Curious about everything,hit me up!
+- 📫 How to reach me: Any of the Social-Media Platforms.
+- 👯 PA @ [Script Winter of Code](www.swoc.tech)
+- ✨ I'm into gaming, coding and ethical hacking.
+-  🔭 **I’m currently working on** ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 <b>You can site my portfolio:<b> https://harshit564.github.io/My-Portfolio/
   
 **Stats :**  (https://gitstats.me/Harshit564)
+
 <br>
 
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
@@ -58,5 +62,3 @@
 
 <p align="center">
 Made with 💖 and ☕ from Harshit Singh</p>
-
-<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
