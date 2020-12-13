@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 
-<img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" />
+<img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" width="50"/>
 
 **About me:**
 
