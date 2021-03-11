@@ -21,7 +21,7 @@
 
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit564&show_icons=true&theme=onedark&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit564&show_icons=true&theme=onedark&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit564&show_icons=true&theme=onedark&layout=compact" />
 </a>
 <br>
 <p align="center">
