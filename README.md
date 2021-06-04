@@ -9,7 +9,7 @@
 - 🎓 Currently I am pursuing B.Tech in Electrical Engineering at Punjab Engineering College,Chandigarh.
 - 👯 Curious about everything,hit me up!
 - 📫 How to reach me: Any of the Social-Media Platforms.
-- 👯 PA @ [Script Winter of Code](www.swoc.tech)
+- 👯 Technical Lead @ [Padhakku](http://padhakku.com/)
 - ✨ I'm into gaming, coding and ethical hacking.
 -  🔭 **I’m currently working on** ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
