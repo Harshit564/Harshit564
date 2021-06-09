@@ -4,7 +4,7 @@
 
 **About me:**
 
-- 🌱 I’m active in [Competitive Coding!](https://www.codechef.com/users/harshit_pec)
+- 🌱 I’m active in Competitive Coding!
 - 💻 Native and Hybrid App Developer and a full stack web developer.
 - 🎓 Currently I am pursuing B.Tech in Electrical Engineering at Punjab Engineering College,Chandigarh.
 - 👯 Curious about everything,hit me up!
