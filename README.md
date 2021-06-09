@@ -20,10 +20,12 @@
 <br>
 
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit564&show_icons=true&theme=onedark&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit564&show_icons=true&theme=onedark&layout=compact" />
+<br>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit564&show_icons=true&theme=onedark&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit564&show_icons=true&theme=onedark&layout=compact" />
 </a>
 <br>
+  <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harshit564&show_icons=true&border=true&title_color=79ff97&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Harshit's Github stats">
 </p><br>
