@@ -5,11 +5,12 @@
 **About me:**
 
 - 🌱 I’m active in Competitive Coding!
+- 👯 Currently working as a Software Developer at Samsung R&D Institute, Bangalore.
 - 💻 Native and Hybrid App Developer and a full stack web developer.
-- 🎓 Currently I am pursuing B.Tech in Electrical Engineering at Punjab Engineering College,Chandigarh.
+- 🎓 Graduated in Electrical Engineering at Punjab Engineering College, Chandigarh.
 - 👯 Curious about everything,hit me up!
 - 📫 How to reach me: Any of the Social-Media Platforms.
-- 👯 Technical Lead @ [Padhakku](http://padhakku.com/)
+- 👯 Ex - Technical Lead @ [Padhakku](http://padhakku.com/)
 - ✨ I'm into gaming, coding and ethical hacking.
 -  🔭 **I’m currently working on** ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
