@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit</h1>
+<h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 
 <img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" width="480"/>
 
@@ -8,19 +8,19 @@
 - 👯 Currently working as a Software Developer at Samsung R&D Institute, Bangalore.
 - 💻 Native and Hybrid App Developer and a full stack web developer.
 - 🎓 Graduated in Electrical Engineering at Punjab Engineering College, Chandigarh.
-- 👯 Curious about everything,hit me up!
-- 📫 How to reach me: Any of the Social-Media Platforms.
+- 👯 Curious about everything, hit me up!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshit-singh-lko/).
 - 👯 Ex - Technical Lead @ [Padhakku](http://padhakku.com/)
-- ✨ I'm into gaming, coding and ethical hacking.
+- ✨ I'm into gaming, coding, and ethical hacking.
 -  🔭 **I’m currently working on** ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 <b>You can site my portfolio:<b> https://harshit564.github.io/My-Portfolio/
   
-**Stats :**  (https://gitstats.me/Harshit564)
+**Stats:**  (https://gitstats.me/Harshit564)
 
 <br>
 
-<i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
+<i> Note:</i>  These are not an indication of my skill level, just an overview of commits.
 <br>
   
   <p align="center">
@@ -58,13 +58,12 @@
 <h1 align="center">Follow me </h1>
 <p align="center">
 <br>
-<a href="https://www.facebook.com/HarshitSingh.pec"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/facebook1.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/harshit_singh58"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/harshit-singh-lko/"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/masky814/"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/10472273/harshit-singh"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/stackoverflow.png"></a>&nbsp;&nbsp;
 <a href="https://sourcerer.io/harshit564"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/sourcerer.png"></a>&nbsp;&nbsp;
-<a href="mailto:harshitsingh15967@gmail.com?subject=Feedaback%20Support"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/gmail.png"></a>
+<a href="mailto:harshitsingh.engineer@gmail.com?subject=Feedaback%20Support"><img height="30" src="https://github.com/Harshit564/Harshit564/blob/master/images/gmail.png"></a>
 
 <p align="center">
 Made with 💖 and ☕ from Harshit Singh</p>
