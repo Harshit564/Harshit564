@@ -5,8 +5,8 @@
 **About me:**
 
 - 🌱 I’m active in Competitive Coding!
-- 👯 Currently working as a Software Developer at Samsung R&D Institute, Bangalore.
-- 💻 Native and Hybrid App Developer and a full stack web developer.
+- 👯 Currently working as a Senior Software Engineer at Samsung R&D Institute, Bangalore.
+- 💻 Native and Hybrid Application Developer.
 - 🎓 Graduated in Electrical Engineering at Punjab Engineering College, Chandigarh.
 - 👯 Curious about everything, hit me up!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshit-singh-lko/).
