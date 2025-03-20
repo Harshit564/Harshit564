@@ -10,7 +10,7 @@
 - 🎓 Graduated in Electrical Engineering at Punjab Engineering College, Chandigarh.
 - 👯 Curious about everything, hit me up!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshit-singh-lko/).
-- 👯 Ex - Technical Lead @ [Padhakku](http://padhakku.com/) @[Nutom]
+- 👯 Ex - Technical Lead @ [Padhakku](http://padhakku.com/) @ [Nutom](https://github.com/NuToM)
 - ✨ I'm into gaming, coding, and ethical hacking.
 -  🔭 **I’m currently working on** ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
